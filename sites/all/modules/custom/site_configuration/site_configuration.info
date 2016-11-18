@@ -1,4 +1,5 @@
 name = Site Configuration
+description = To handle basic site properties such as title and theme
 core = 7.x
 package = Features
 version = 7.x-1.0
