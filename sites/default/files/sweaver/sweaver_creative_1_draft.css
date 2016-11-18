@@ -1,0 +1,31 @@
+#block-block-1 h2 {
+  text-align: center;
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  padding-top: 10px;
+  border-top-color: #transparent;
+  border-right-color: #transparent;
+  border-bottom-color: #transparent;
+  border-left-color: #transparent;
+}
+
+.content p {
+  text-align: center;
+  border-left-width: 2px;
+  border-bottom-width: 2px;
+  border-right-width: 2px;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+}
+
+.field-item p {
+  text-align: left;
+}
+

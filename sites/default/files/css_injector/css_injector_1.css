@@ -1,0 +1,13 @@
+.region-header .block {
+    border: 3px double white;
+    background: #b7b7b7;
+    color: white;
+}
+
+.region-header .block h2 {
+    color: white;
+}
+
+.featured-text {
+    text-align: center;
+}
