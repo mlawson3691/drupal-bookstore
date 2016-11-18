@@ -11,3 +11,21 @@
 .featured-text {
     text-align: center;
 }
+
+.view-content td, .view-content table {
+    border: 0;
+}
+
+.view-content td {
+    width: 194px;
+    border-top: 1px solid #b7b7b7;
+    padding-top: 10px;
+}
+
+#main #content .node-teaser {
+    border-bottom: 0;
+}
+
+.field-name-field-rating * {
+    display: inline;
+}
